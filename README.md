@@ -20,7 +20,9 @@
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=plastic&logo=aws&logoColor=white)
 ![AWS Lambda](https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?style=plastic&logo=aws-lambda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=fff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)  
+
+![AWS CP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
 
 <br>
 
